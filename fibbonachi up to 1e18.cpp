@@ -1,11 +1,4 @@
 
-// Problem : Fibonacci Numbers
-// Contest : CSES - CSES Problem Set
-// URL : https://cses.fi/problemset/task/1722
-// Memory Limit : 512 MB
-// Time Limit : 1000 ms
-// Powered by CP Editor (https://github.com/cpeditor/cpeditor)
-
 #include<bits/stdc++.h>
 #include<set>
 #define lli long long int
